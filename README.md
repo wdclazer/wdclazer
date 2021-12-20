@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wdclazer
 - 👀 I’m interested in anything involving math and coding
 - 🌱 I’m currently learning advanced mathematics
-- 💞️ I’m looking to collaborate on anyhting cool 😎
+- 💞️ I’m looking to collaborate on anything cool 😎
 - 📫 How to reach me kalebhix@gmail.com
 
 <!---
